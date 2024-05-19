@@ -1,16 +1,16 @@
 const quizData = [
     {
-        question: "What's Abhijeet favourite Movie",
+        question: "What's Akash favourite Movie",
         options: ["The Notebook", "Titanic", "Avengers: End Game", "La La Land"],
         answer: ""
     },
     {
-        question: "What's Abhijeet idea of a perfect date?",
+        question: "What's Akash idea of a perfect date?",
         options: ["Dinner at a fancy restaurant", "Picnic under the stars", "Watching sunset at Fatehpur Sikri", "Stargazing on a rooftop"],
         answer: ""
     },
     {
-        question: "Which love song Abhijeet like?",
+        question: "Which love song Akash like?",
         options: ["Satranga", "Pehle bhi main", "Perfect", "Zaalima"],
         answer: ""
     },
