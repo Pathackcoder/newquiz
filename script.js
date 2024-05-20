@@ -1,27 +1,27 @@
 const questions = [
-    "Who knows every secret of Akash?",
-    "What type of movies does Akash like?",
-    "What animal would Akash like as a pet?",
-    "What is Akash favorite smartphone brand?",
-    "What was the date of Akash first kiss?",
-    "What is Akash's favourite subject?",
+    "Who knows every secret of you?",
+    "What is your favorite romantic movie?",
+    "What is your dream vacation destination with your partner?",
+    "What is your favorite love song?",
+    "What was the date of your first kiss?",
+    "What is the most memorable gift you've received from your partner?",
     "What is your partner's favorite color?",
-    "What is Akash favorite thing to do together with you?",
+    "What is your favorite thing to do together?",
     "Where did you first meet?",
     "What is your partner's middle name?"
 ];
 
 const options = [
     ["Best Friend", "Mother/Father", "GF/BF", "Brother/Sister", "Grandparent", "No One"],
-    ["Comedy", "Drama", "Romance", "Thriller", "Science Fiction", "Horror"],
-    ["Cat", "Dog", "Fish", "Parrot", "Rat", "Cow"],
-    ["Samsung", "Apple", "One Plus", "Xiomi", "Sony", "Oppo"],
-    ["01/01/2020", "14/02/2019", "31/12/2018", "25/12/2017", "04/07/2016", "Never"],
-    ["Art", "Chemistry", "Commerce", "English", "Maths", "Hindi"],
+    ["The Notebook", "Titanic", "Pride and Prejudice", "A Walk to Remember", "La La Land", "Romeo + Juliet"],
+    ["Paris", "Maldives", "Hawaii", "Venice", "Bali", "Santorini"],
+    ["Endless Love", "All of Me", "Perfect", "Thinking Out Loud", "Just the Way You Are", "My Heart Will Go On"],
+    ["01/01/2020", "14/02/2019", "31/12/2018", "25/12/2017", "04/07/2016", "11/11/2015"],
+    ["Jewelry", "Love Letter", "Handmade Gift", "Surprise Date", "Flowers", "A Song"],
     ["Red", "Blue", "Green", "Purple", "Pink", "Black"],
     ["Cooking Together", "Watching Movies", "Traveling", "Dancing", "Hiking", "Reading"],
-    ["At a Party", "In School", "Online", "Class", "Telegram", "Facebook"],
-    ["Singh", "Anand", "Pratap", "Shankar", "Kumar", "Nothing"]
+    ["At a Party", "In School", "Online", "Through a Friend", "At Work", "At a Coffee Shop"],
+    ["Michael", "Ann", "James", "Elizabeth", "David", "Marie"]
 ];
 
 let currentQuestion = 0;
